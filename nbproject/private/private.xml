@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/service/NhanKhauService.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>202</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/NetBeansProjects/CNPM/src/DongTienController/DongTienControl.java</file>
+            <file>file:/D:/NetBeansProjects/CNPM/src/NhanKhauView/DanhSachHoKhau.java</file>
+            <file>file:/D:/NetBeansProjects/CNPM/src/service/KhoanThuService.java</file>
+            <file>file:/D:/NetBeansProjects/CNPM/src/NhanKhauView/themNhanKhau.java</file>
+            <file>file:/D:/NetBeansProjects/CNPM/src/service/ExcelReader.java</file>
+            <file>file:/D:/NetBeansProjects/CNPM/src/view/HoKhauView.java</file>
+            <file>file:/D:/NetBeansProjects/CNPM/src/view/NhanKhauView.java</file>
+            <file>file:/D:/NetBeansProjects/CNPM/src/KhoanThuController/ThemKhoanThuController.java</file>
+            <file>file:/D:/NetBeansProjects/CNPM/src/HoKhauView/KhaiBaoTinhTrangView.java</file>
+            <file>file:/D:/NetBeansProjects/CNPM/src/view/KhoanThuView.java</file>
+            <file>file:/D:/NetBeansProjects/CNPM/src/service/NhanKhauService.java</file>
+            <file>file:/D:/NetBeansProjects/CNPM/src/service/DongTienService.java</file>
+            <file>file:/D:/NetBeansProjects/CNPM/src/DongTienView/DongTienHK.java</file>
+            <file>file:/D:/NetBeansProjects/CNPM/src/service/mysqlConnection.java</file>
+            <file>file:/D:/NetBeansProjects/CNPM/src/cnpm/CNPM.java</file>
+            <file>file:/D:/NetBeansProjects/CNPM/src/KhoanThuView/ThemKhoanThu.java</file>
+            <file>file:/D:/NetBeansProjects/CNPM/src/KhoanThuView/XemKhoanThu.java</file>
+        </group>
+    </open-files>
+</project-private>
